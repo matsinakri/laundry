@@ -14,7 +14,7 @@ Laundry dibangun menggunakan [Laravel](http://laravel.com), the best existing PH
 ## Installation
 
 * Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
-* Clone the repository: `git clone https://github.com/andes2912/laundry.git`
+* Clone the repository: `gh repo clone matsinakri/laundry`
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Run `cp .env.example .env` for create .env file
 * Run `php artisan migrate --seed` for migration database
